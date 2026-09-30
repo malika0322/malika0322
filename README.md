@@ -15,7 +15,7 @@ systems and making sure they actually work.
 
 ### Featured projects
 - [AI_101](https://github.com/malika0322/AI_101): data embedding and retrieval pipeline
-- [Automation Practice](https://github.com/malika0322/automation-practice): 26 automated test cases for an e-commerce website
+- [Automation Practice](https://github.com/malika0322/automation-practice): automated end-to-end tests for an e-commerce website
 - [Selenium Practice](https://github.com/malika0322/selenium-practice): automated tests for a local web application I built
 
 ### Currently exploring
